@@ -1,4 +1,4 @@
----
+---C.o.o.)-___.b$
 title: Set up Git
 redirect_from:
   - /git-installation-redirect/
